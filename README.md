@@ -77,138 +77,63 @@ The analysis follows a **structured industry-standard workflow**:
 
 ---
 
-### 1️⃣ Content Distribution Analysis
+## 🔍 Netflix Data Analysis – Questions, Insights & Business Value (Q1–Q12)
 
-**Question**
-- How is Netflix content divided between Movies and TV Shows?
+**Q1️⃣ Show the details of the series Stranger Things**  
+**Insight:** The dataset contains complete metadata for the series Stranger Things, including category, country, rating, duration, and release information.  
+**Business Value:** Helps in analyzing individual flagship content and understanding how popular titles are structured on Netflix.
 
-**Insight**
-- Netflix has more Movies than TV Shows, but TV Shows play a key role in long-term user engagement and retention.
+**Q2️⃣ In which year were the highest number of TV Shows and Movies released?**  
+**Insight:** The highest number of titles were released in recent years, showing a sharp rise in Netflix content production.  
+**Business Value:** Identifies peak production years and supports analysis of Netflix’s aggressive expansion strategy.
 
-**Business Value**
-- Helps understand Netflix’s content mix strategy.
+**Q3️⃣ How many Movies and TV Shows are in the dataset?**  
+**Insight:** Movies are present in higher numbers compared to TV Shows.  
+**Business Value:** Indicates that Netflix’s content library is movie-heavy, while TV Shows are more selective and strategic.
 
----
+**Q4️⃣ Show all the Movies that were released in the year 2020**  
+**Insight:** A large number of movies were released in 2020, reflecting increased digital content demand.  
+**Business Value:** Helps analyze Netflix’s response to global shifts toward online entertainment.
 
-### 2️⃣ Growth Trend Analysis (Time-Based)
+**Q5️⃣ Show all the TV Shows that were released in India**  
+**Insight:** India has a notable number of TV Shows available on Netflix.  
+**Business Value:** Highlights India as an important market for regional and original TV content.
 
-**Question**
-- How has Netflix’s content library grown over time?
+**Q6️⃣ Show top 10 Directors who gave the highest number of TV Shows and Movies to Netflix**  
+**Insight:** A small group of directors have contributed multiple titles to Netflix.  
+**Business Value:** Helps identify frequent collaborators and high-output content creators.
 
-**Insights**
-- Rapid growth observed after 2015
-- Significant increase in content addition during recent years
+**Q7️⃣ Show all records where Category is Movie and Type is Comedies OR Country is United Kingdom**  
+**Insight:** Netflix has a strong presence of comedy movies and significant content originating from the United Kingdom.  
+**Business Value:** Helps analyze genre preference and country-wise content strength.
 
-**Business Value**
-- Indicates aggressive expansion and global scaling strategy.
+**Q8️⃣ In how many Movies or TV Shows was Tom Cruise cast?**  
+**Insight:** Tom Cruise appears in a limited number of Netflix titles.  
+**Business Value:** Useful for actor-level analysis and celebrity content evaluation.
 
----
+**Q9️⃣ What are the different Ratings defined by Netflix?**  
+**Insight:** Netflix uses multiple rating categories such as TV-MA, TV-14, R, PG-13, and others.  
+**Business Value:** Helps understand audience segmentation and content maturity targeting.
 
-### 3️⃣ Movies vs TV Shows Growth Trend
+**Q9️⃣.1️⃣ How many Movies got the TV-14 rating in Canada?**  
+**Insight:** A specific number of TV-14 rated movies are available in Canada.  
+**Business Value:** Supports country-specific rating and compliance analysis.
 
-**Question**
-- Which content type is growing faster?
+**Q9️⃣.2️⃣ How many TV Shows got Rating R after 2018?**  
+**Insight:** Only a limited number of TV Shows with R rating were released after 2018.  
+**Business Value:** Helps assess mature content trends over time.
 
-**Insights**
-- TV Shows show faster growth in recent years compared to Movies
+**Q🔟 What is the maximum duration of a Movie or TV Show on Netflix?**  
+**Insight:** A few titles have exceptionally high duration compared to the rest.  
+**Business Value:** Identifies outliers in content length and production strategy.
 
-**Business Value**
-- Supports Netflix’s binge-watch and subscription retention model.
+**Q1️⃣1️⃣ Which individual country has the highest number of TV Shows?**  
+**Insight:** One country leads in producing the highest number of TV Shows.  
+**Business Value:** Shows country-level specialization in episodic content.
 
----
-
-### 4️⃣ Country-Level Content Analysis
-
-**Question**
-- Which countries contribute the most content?
-
-**Insights**
-- The United States dominates Netflix’s content library
-- Increasing contribution from other countries indicates global expansion
-
-**Business Value**
-- Helps identify mature vs emerging content markets.
-
----
-
-### 5️⃣ Country-wise Content Strategy
-
-**Question**
-- How do different countries focus on Movies vs TV Shows?
-
-**Insights**
-- Some countries specialize more in TV Shows, while others focus on Movies
-
-**Business Value**
-- Supports region-specific content investment decisions.
-
----
-
-### 6️⃣ Genre (Type) Analysis
-
-**Question**
-- Which genres dominate Netflix’s platform?
-
-**Insights**
-- Dramas and Comedies are the most common genres
-- Consistent growth in drama content over time
-
-**Business Value**
-- Helps Netflix prioritize high-engagement genres.
-
----
-
-### 7️⃣ Genre Trend Over Time
-
-**Question**
-- How are genres evolving year by year?
-
-**Insights**
-- Drama content shows steady long-term growth
-- Genre diversification increases in recent years
-
-**Business Value**
-- Supports content diversification and audience targeting.
-
----
-
-### 8️⃣ Duration Analysis – Movies
-
-**Question**
-- What is the typical duration of Netflix movies?
-
-**Insights**
-- Most movies fall between 90–120 minutes
-
-**Business Value**
-- Aligns with audience attention span and platform consumption behavior.
-
----
-
-### 9️⃣ Duration Analysis – TV Shows
-
-**Question**
-- How many seasons do Netflix TV shows usually have?
-
-**Insights**
-- Majority of TV shows have 1–3 seasons
-
-**Business Value**
-- Reflects Netflix’s preference for limited-series formats.
-
----
-
-### 🔟 Content Rating Analysis
-
-**Question**
-- What type of audience does Netflix mainly target?
-
-**Insights**
-- High volume of mature-rated content
-- Strong focus on adult audiences
-
-**Business Value**
-- Helps align content strategy with user demographics.
+**Q1️⃣2️⃣ How can we sort the dataset by Year?**  
+**Insight:** Sorting by year helps identify the oldest and newest content available on Netflix.  
+**Business Value:** Enables chronological analysis of content growth.
 
 ---
 
