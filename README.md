@@ -135,6 +135,46 @@ The analysis follows a **structured industry-standard workflow**:
 **Insight:** Sorting by year helps identify the oldest and newest content available on Netflix.  
 **Business Value:** Enables chronological analysis of content growth.
 
+**Q1️⃣3️⃣ Find all instances where Category is Movie and Type is Dramas OR Category is TV Show and Type is Kids’ TV**  
+**Insight:** Netflix offers a mix of drama movies and kids-focused TV content.  
+**Business Value:** Shows Netflix’s balance between adult-focused and family-friendly content.
+
+**Q1️⃣4️⃣ Movies vs TV Shows – Visualization**  
+**Insight:** Movies are higher in number than TV Shows.  
+**Business Value:** Confirms Netflix’s overall content distribution strategy.
+
+**Q1️⃣5️⃣ Content Rating Distribution**  
+**Insight:** TV-MA is the most common rating, while NC-17 has the lowest count.  
+**Business Value:** Indicates Netflix’s primary focus on mature audiences.
+
+**Q1️⃣6️⃣ Year-wise how much content does Netflix have?**  
+**Insight:** Recent years contribute the largest portion of Netflix’s total content.  
+**Business Value:** Highlights rapid platform growth in recent times.
+
+**Q1️⃣7️⃣ Content Growth Over Time**  
+**Insight:** Netflix content growth started accelerating significantly after 2015–2016.  
+**Business Value:** Marks the period when Netflix expanded aggressively into original and global content.
+
+**Q1️⃣8️⃣ Movie vs TV Show Growth Trend**  
+**Insight:** Both Movies and TV Shows show growth, with TV Shows increasing steadily.  
+**Business Value:** Supports Netflix’s long-term user retention strategy through episodic content.
+
+**Q1️⃣9️⃣ Top 10 Content Producing Countries**  
+**Insight:** The USA is the top producer, followed by India, the UK, Japan, and South Korea.  
+**Business Value:** Shows Netflix’s global content diversification with US dominance.
+
+**Q2️⃣0️⃣ Movie Duration Distribution**  
+**Insight:** Most Netflix movies have a duration between 90–120 minutes.  
+**Business Value:** Aligns with standard audience viewing preferences.
+
+**Q2️⃣1️⃣ TV Show Seasons Distribution**  
+**Insight:** Most TV Shows have 1–3 seasons.  
+**Business Value:** Reflects Netflix’s preference for limited-season, binge-friendly content.
+
+**Q2️⃣2️⃣ Most Popular Genres on Netflix**  
+**Insight:** Popular genres include Documentaries, Stand-Up Comedy, Dramas, International Movies, and Comedies.  
+**Business Value:** Helps Netflix prioritize high-demand genres for future content investment.
+
 ---
 
 ## 📊 Visualizations Used
